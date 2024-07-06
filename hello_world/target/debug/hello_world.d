@@ -1,0 +1,1 @@
+C:\Users\esteb\OneDrive\Escritorio\Universidad\2024\Graficas\ por\ Computadora\hello_world\target\debug\hello_world.exe: C:\Users\esteb\OneDrive\Escritorio\Universidad\2024\Graficas\ por\ Computadora\hello_world\src\color.rs C:\Users\esteb\OneDrive\Escritorio\Universidad\2024\Graficas\ por\ Computadora\hello_world\src\main.rs
